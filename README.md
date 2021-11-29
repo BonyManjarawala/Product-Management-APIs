@@ -56,5 +56,6 @@ DELETE
 * delete product
 
 # Screenshot
-<a id="user-content-Screenshots" class="anchor" aria-hidden="true" href="#Screenshots">"Screenshot"</a>
+<a id="user-content-Screenshots" class="anchor" aria-hidden="true" href="#Screenshots"></a>
 
+<a href="https://github.com/BonyManjarawala/Product-Management-APIs/tree/main/ProductManagementAPIS(Express)/Postman"> Click Here</a>

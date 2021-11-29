@@ -56,5 +56,5 @@ DELETE
 * delete product
 
 # Screenshot
-<a id="user-content-Screenshots" class="anchor" aria-hidden="true" href="#Screenshots">...</a>
-"Screenshot"
+<a id="user-content-Screenshots" class="anchor" aria-hidden="true" href="#Screenshots">"Screenshot"</a>
+
